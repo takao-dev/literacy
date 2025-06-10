@@ -1,0 +1,12 @@
+    body {
+      background-color: grey;
+      color: rgb(210, 243, 197);
+      font-family: sans-serif;
+      margin: 2em;
+    }
+    h1 {
+      color: rgb(253, 253, 161);
+    }
+    p {
+      font-size: 1.2em;
+    }
